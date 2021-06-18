@@ -1,0 +1,505 @@
+order_hour_of_day,department,num_orders_hour,tot_orders_dept
+0,alcohol,33.0,5598.0
+1,alcohol,32.0,5598.0
+2,alcohol,5.0,5598.0
+3,alcohol,3.0,5598.0
+4,alcohol,2.0,5598.0
+5,alcohol,12.0,5598.0
+6,alcohol,34.0,5598.0
+7,alcohol,92.0,5598.0
+8,alcohol,161.0,5598.0
+9,alcohol,343.0,5598.0
+10,alcohol,409.0,5598.0
+11,alcohol,456.0,5598.0
+12,alcohol,494.0,5598.0
+13,alcohol,520.0,5598.0
+14,alcohol,518.0,5598.0
+15,alcohol,620.0,5598.0
+16,alcohol,528.0,5598.0
+17,alcohol,443.0,5598.0
+18,alcohol,352.0,5598.0
+19,alcohol,220.0,5598.0
+20,alcohol,149.0,5598.0
+21,alcohol,85.0,5598.0
+22,alcohol,46.0,5598.0
+23,alcohol,41.0,5598.0
+0,babies,70.0,14941.0
+1,babies,70.0,14941.0
+2,babies,49.0,14941.0
+3,babies,25.0,14941.0
+4,babies,22.0,14941.0
+5,babies,38.0,14941.0
+6,babies,202.0,14941.0
+7,babies,530.0,14941.0
+8,babies,948.0,14941.0
+9,babies,1257.0,14941.0
+10,babies,1153.0,14941.0
+11,babies,1086.0,14941.0
+12,babies,958.0,14941.0
+13,babies,1130.0,14941.0
+14,babies,1191.0,14941.0
+15,babies,1184.0,14941.0
+16,babies,1145.0,14941.0
+17,babies,858.0,14941.0
+18,babies,710.0,14941.0
+19,babies,594.0,14941.0
+20,babies,642.0,14941.0
+21,babies,489.0,14941.0
+22,babies,395.0,14941.0
+23,babies,195.0,14941.0
+0,bakery,307.0,48394.0
+1,bakery,175.0,48394.0
+2,bakery,103.0,48394.0
+3,bakery,75.0,48394.0
+4,bakery,86.0,48394.0
+5,bakery,127.0,48394.0
+6,bakery,428.0,48394.0
+7,bakery,1285.0,48394.0
+8,bakery,2489.0,48394.0
+9,bakery,3356.0,48394.0
+10,bakery,3822.0,48394.0
+11,bakery,3863.0,48394.0
+12,bakery,3907.0,48394.0
+13,bakery,4023.0,48394.0
+14,bakery,4260.0,48394.0
+15,bakery,4056.0,48394.0
+16,bakery,3859.0,48394.0
+17,bakery,3433.0,48394.0
+18,bakery,2748.0,48394.0
+19,bakery,2023.0,48394.0
+20,bakery,1454.0,48394.0
+21,bakery,1111.0,48394.0
+22,bakery,904.0,48394.0
+23,bakery,500.0,48394.0
+0,beverages,694.0,114046.0
+1,beverages,473.0,114046.0
+2,beverages,285.0,114046.0
+3,beverages,247.0,114046.0
+4,beverages,231.0,114046.0
+5,beverages,398.0,114046.0
+6,beverages,1031.0,114046.0
+7,beverages,2815.0,114046.0
+8,beverages,5400.0,114046.0
+9,beverages,8185.0,114046.0
+10,beverages,9790.0,114046.0
+11,beverages,9710.0,114046.0
+12,beverages,9179.0,114046.0
+13,beverages,9311.0,114046.0
+14,beverages,9710.0,114046.0
+15,beverages,9415.0,114046.0
+16,beverages,8675.0,114046.0
+17,beverages,8075.0,114046.0
+18,beverages,6439.0,114046.0
+19,beverages,4881.0,114046.0
+20,beverages,3272.0,114046.0
+21,beverages,2551.0,114046.0
+22,beverages,1991.0,114046.0
+23,beverages,1288.0,114046.0
+0,breakfast,175.0,29500.0
+1,breakfast,124.0,29500.0
+2,breakfast,60.0,29500.0
+3,breakfast,54.0,29500.0
+4,breakfast,62.0,29500.0
+5,breakfast,88.0,29500.0
+6,breakfast,264.0,29500.0
+7,breakfast,860.0,29500.0
+8,breakfast,1488.0,29500.0
+9,breakfast,2142.0,29500.0
+10,breakfast,2456.0,29500.0
+11,breakfast,2429.0,29500.0
+12,breakfast,2241.0,29500.0
+13,breakfast,2299.0,29500.0
+14,breakfast,2533.0,29500.0
+15,breakfast,2372.0,29500.0
+16,breakfast,2265.0,29500.0
+17,breakfast,2087.0,29500.0
+18,breakfast,1603.0,29500.0
+19,breakfast,1316.0,29500.0
+20,breakfast,891.0,29500.0
+21,breakfast,742.0,29500.0
+22,breakfast,605.0,29500.0
+23,breakfast,344.0,29500.0
+0,bulk,12.0,1359.0
+1,bulk,13.0,1359.0
+2,bulk,3.0,1359.0
+3,bulk,1.0,1359.0
+4,bulk,0.0,1359.0
+5,bulk,5.0,1359.0
+6,bulk,4.0,1359.0
+7,bulk,27.0,1359.0
+8,bulk,76.0,1359.0
+9,bulk,88.0,1359.0
+10,bulk,111.0,1359.0
+11,bulk,123.0,1359.0
+12,bulk,96.0,1359.0
+13,bulk,107.0,1359.0
+14,bulk,133.0,1359.0
+15,bulk,103.0,1359.0
+16,bulk,91.0,1359.0
+17,bulk,88.0,1359.0
+18,bulk,78.0,1359.0
+19,bulk,68.0,1359.0
+20,bulk,42.0,1359.0
+21,bulk,34.0,1359.0
+22,bulk,36.0,1359.0
+23,bulk,20.0,1359.0
+0,canned goods,324.0,46799.0
+1,canned goods,150.0,46799.0
+2,canned goods,99.0,46799.0
+3,canned goods,100.0,46799.0
+4,canned goods,96.0,46799.0
+5,canned goods,128.0,46799.0
+6,canned goods,389.0,46799.0
+7,canned goods,1171.0,46799.0
+8,canned goods,2120.0,46799.0
+9,canned goods,3175.0,46799.0
+10,canned goods,3591.0,46799.0
+11,canned goods,4094.0,46799.0
+12,canned goods,3987.0,46799.0
+13,canned goods,4094.0,46799.0
+14,canned goods,3981.0,46799.0
+15,canned goods,3965.0,46799.0
+16,canned goods,3776.0,46799.0
+17,canned goods,3154.0,46799.0
+18,canned goods,2508.0,46799.0
+19,canned goods,1892.0,46799.0
+20,canned goods,1342.0,46799.0
+21,canned goods,1146.0,46799.0
+22,canned goods,957.0,46799.0
+23,canned goods,560.0,46799.0
+0,dairy eggs,1331.0,217051.0
+1,dairy eggs,827.0,217051.0
+2,dairy eggs,456.0,217051.0
+3,dairy eggs,391.0,217051.0
+4,dairy eggs,383.0,217051.0
+5,dairy eggs,617.0,217051.0
+6,dairy eggs,2012.0,217051.0
+7,dairy eggs,6067.0,217051.0
+8,dairy eggs,11239.0,217051.0
+9,dairy eggs,15146.0,217051.0
+10,dairy eggs,17375.0,217051.0
+11,dairy eggs,17410.0,217051.0
+12,dairy eggs,17008.0,217051.0
+13,dairy eggs,17740.0,217051.0
+14,dairy eggs,18599.0,217051.0
+15,dairy eggs,17946.0,217051.0
+16,dairy eggs,17292.0,217051.0
+17,dairy eggs,14976.0,217051.0
+18,dairy eggs,12075.0,217051.0
+19,dairy eggs,9082.0,217051.0
+20,dairy eggs,6482.0,217051.0
+21,dairy eggs,5714.0,217051.0
+22,dairy eggs,4349.0,217051.0
+23,dairy eggs,2534.0,217051.0
+0,deli,290.0,44291.0
+1,deli,197.0,44291.0
+2,deli,104.0,44291.0
+3,deli,80.0,44291.0
+4,deli,62.0,44291.0
+5,deli,109.0,44291.0
+6,deli,399.0,44291.0
+7,deli,1131.0,44291.0
+8,deli,2030.0,44291.0
+9,deli,2769.0,44291.0
+10,deli,3513.0,44291.0
+11,deli,3650.0,44291.0
+12,deli,3691.0,44291.0
+13,deli,3779.0,44291.0
+14,deli,3756.0,44291.0
+15,deli,3666.0,44291.0
+16,deli,3757.0,44291.0
+17,deli,3211.0,44291.0
+18,deli,2570.0,44291.0
+19,deli,1862.0,44291.0
+20,deli,1249.0,44291.0
+21,deli,1068.0,44291.0
+22,deli,820.0,44291.0
+23,deli,528.0,44291.0
+0,dry goods pasta,251.0,38713.0
+1,dry goods pasta,157.0,38713.0
+2,dry goods pasta,87.0,38713.0
+3,dry goods pasta,60.0,38713.0
+4,dry goods pasta,74.0,38713.0
+5,dry goods pasta,100.0,38713.0
+6,dry goods pasta,315.0,38713.0
+7,dry goods pasta,870.0,38713.0
+8,dry goods pasta,1778.0,38713.0
+9,dry goods pasta,2392.0,38713.0
+10,dry goods pasta,2946.0,38713.0
+11,dry goods pasta,3238.0,38713.0
+12,dry goods pasta,3130.0,38713.0
+13,dry goods pasta,3343.0,38713.0
+14,dry goods pasta,3381.0,38713.0
+15,dry goods pasta,3330.0,38713.0
+16,dry goods pasta,3264.0,38713.0
+17,dry goods pasta,2885.0,38713.0
+18,dry goods pasta,2219.0,38713.0
+19,dry goods pasta,1593.0,38713.0
+20,dry goods pasta,1160.0,38713.0
+21,dry goods pasta,968.0,38713.0
+22,dry goods pasta,696.0,38713.0
+23,dry goods pasta,476.0,38713.0
+0,frozen,692.0,100426.0
+1,frozen,433.0,100426.0
+2,frozen,265.0,100426.0
+3,frozen,190.0,100426.0
+4,frozen,193.0,100426.0
+5,frozen,274.0,100426.0
+6,frozen,860.0,100426.0
+7,frozen,2403.0,100426.0
+8,frozen,4308.0,100426.0
+9,frozen,5955.0,100426.0
+10,frozen,7192.0,100426.0
+11,frozen,8089.0,100426.0
+12,frozen,7795.0,100426.0
+13,frozen,8170.0,100426.0
+14,frozen,8718.0,100426.0
+15,frozen,8432.0,100426.0
+16,frozen,8528.0,100426.0
+17,frozen,7904.0,100426.0
+18,frozen,6303.0,100426.0
+19,frozen,4831.0,100426.0
+20,frozen,3274.0,100426.0
+21,frozen,2461.0,100426.0
+22,frozen,1889.0,100426.0
+23,frozen,1267.0,100426.0
+0,household,239.0,35986.0
+1,household,134.0,35986.0
+2,household,91.0,35986.0
+3,household,59.0,35986.0
+4,household,113.0,35986.0
+5,household,101.0,35986.0
+6,household,316.0,35986.0
+7,household,973.0,35986.0
+8,household,1806.0,35986.0
+9,household,2680.0,35986.0
+10,household,3157.0,35986.0
+11,household,3024.0,35986.0
+12,household,2952.0,35986.0
+13,household,2877.0,35986.0
+14,household,2842.0,35986.0
+15,household,2866.0,35986.0
+16,household,2608.0,35986.0
+17,household,2485.0,35986.0
+18,household,2123.0,35986.0
+19,household,1553.0,35986.0
+20,household,1082.0,35986.0
+21,household,882.0,35986.0
+22,household,614.0,35986.0
+23,household,409.0,35986.0
+0,international,76.0,11902.0
+1,international,50.0,11902.0
+2,international,25.0,11902.0
+3,international,32.0,11902.0
+4,international,27.0,11902.0
+5,international,32.0,11902.0
+6,international,73.0,11902.0
+7,international,245.0,11902.0
+8,international,515.0,11902.0
+9,international,746.0,11902.0
+10,international,915.0,11902.0
+11,international,1012.0,11902.0
+12,international,951.0,11902.0
+13,international,1086.0,11902.0
+14,international,1017.0,11902.0
+15,international,1039.0,11902.0
+16,international,1015.0,11902.0
+17,international,885.0,11902.0
+18,international,654.0,11902.0
+19,international,508.0,11902.0
+20,international,302.0,11902.0
+21,international,310.0,11902.0
+22,international,254.0,11902.0
+23,international,133.0,11902.0
+0,meat seafood,188.0,30307.0
+1,meat seafood,120.0,30307.0
+2,meat seafood,77.0,30307.0
+3,meat seafood,40.0,30307.0
+4,meat seafood,50.0,30307.0
+5,meat seafood,93.0,30307.0
+6,meat seafood,246.0,30307.0
+7,meat seafood,796.0,30307.0
+8,meat seafood,1446.0,30307.0
+9,meat seafood,1885.0,30307.0
+10,meat seafood,2360.0,30307.0
+11,meat seafood,2535.0,30307.0
+12,meat seafood,2517.0,30307.0
+13,meat seafood,2534.0,30307.0
+14,meat seafood,2670.0,30307.0
+15,meat seafood,2579.0,30307.0
+16,meat seafood,2522.0,30307.0
+17,meat seafood,2149.0,30307.0
+18,meat seafood,1729.0,30307.0
+19,meat seafood,1242.0,30307.0
+20,meat seafood,906.0,30307.0
+21,meat seafood,688.0,30307.0
+22,meat seafood,549.0,30307.0
+23,meat seafood,386.0,30307.0
+0,missing,67.0,8251.0
+1,missing,40.0,8251.0
+2,missing,13.0,8251.0
+3,missing,15.0,8251.0
+4,missing,13.0,8251.0
+5,missing,25.0,8251.0
+6,missing,70.0,8251.0
+7,missing,205.0,8251.0
+8,missing,367.0,8251.0
+9,missing,540.0,8251.0
+10,missing,663.0,8251.0
+11,missing,665.0,8251.0
+12,missing,679.0,8251.0
+13,missing,659.0,8251.0
+14,missing,697.0,8251.0
+15,missing,701.0,8251.0
+16,missing,651.0,8251.0
+17,missing,562.0,8251.0
+18,missing,508.0,8251.0
+19,missing,348.0,8251.0
+20,missing,234.0,8251.0
+21,missing,202.0,8251.0
+22,missing,187.0,8251.0
+23,missing,140.0,8251.0
+0,other,14.0,1795.0
+1,other,10.0,1795.0
+2,other,6.0,1795.0
+3,other,2.0,1795.0
+4,other,3.0,1795.0
+5,other,7.0,1795.0
+6,other,14.0,1795.0
+7,other,39.0,1795.0
+8,other,78.0,1795.0
+9,other,98.0,1795.0
+10,other,135.0,1795.0
+11,other,136.0,1795.0
+12,other,140.0,1795.0
+13,other,128.0,1795.0
+14,other,188.0,1795.0
+15,other,158.0,1795.0
+16,other,142.0,1795.0
+17,other,148.0,1795.0
+18,other,105.0,1795.0
+19,other,75.0,1795.0
+20,other,53.0,1795.0
+21,other,52.0,1795.0
+22,other,32.0,1795.0
+23,other,32.0,1795.0
+0,pantry,565.0,81242.0
+1,pantry,350.0,81242.0
+2,pantry,201.0,81242.0
+3,pantry,136.0,81242.0
+4,pantry,140.0,81242.0
+5,pantry,236.0,81242.0
+6,pantry,611.0,81242.0
+7,pantry,1899.0,81242.0
+8,pantry,3760.0,81242.0
+9,pantry,5218.0,81242.0
+10,pantry,6547.0,81242.0
+11,pantry,6880.0,81242.0
+12,pantry,6939.0,81242.0
+13,pantry,6895.0,81242.0
+14,pantry,7127.0,81242.0
+15,pantry,6939.0,81242.0
+16,pantry,6360.0,81242.0
+17,pantry,5640.0,81242.0
+18,pantry,4454.0,81242.0
+19,pantry,3351.0,81242.0
+20,pantry,2285.0,81242.0
+21,pantry,2010.0,81242.0
+22,pantry,1597.0,81242.0
+23,pantry,1102.0,81242.0
+0,personal care,157.0,21570.0
+1,personal care,101.0,21570.0
+2,personal care,60.0,21570.0
+3,personal care,37.0,21570.0
+4,personal care,38.0,21570.0
+5,personal care,95.0,21570.0
+6,personal care,205.0,21570.0
+7,personal care,607.0,21570.0
+8,personal care,1027.0,21570.0
+9,personal care,1472.0,21570.0
+10,personal care,1644.0,21570.0
+11,personal care,1764.0,21570.0
+12,personal care,1643.0,21570.0
+13,personal care,1696.0,21570.0
+14,personal care,1801.0,21570.0
+15,personal care,1738.0,21570.0
+16,personal care,1660.0,21570.0
+17,personal care,1612.0,21570.0
+18,personal care,1287.0,21570.0
+19,personal care,1048.0,21570.0
+20,personal care,679.0,21570.0
+21,personal care,524.0,21570.0
+22,personal care,424.0,21570.0
+23,personal care,251.0,21570.0
+0,pets,57.0,4497.0
+1,pets,18.0,4497.0
+2,pets,8.0,4497.0
+3,pets,6.0,4497.0
+4,pets,20.0,4497.0
+5,pets,16.0,4497.0
+6,pets,40.0,4497.0
+7,pets,103.0,4497.0
+8,pets,200.0,4497.0
+9,pets,248.0,4497.0
+10,pets,358.0,4497.0
+11,pets,378.0,4497.0
+12,pets,342.0,4497.0
+13,pets,369.0,4497.0
+14,pets,375.0,4497.0
+15,pets,356.0,4497.0
+16,pets,353.0,4497.0
+17,pets,344.0,4497.0
+18,pets,350.0,4497.0
+19,pets,207.0,4497.0
+20,pets,146.0,4497.0
+21,pets,112.0,4497.0
+22,pets,60.0,4497.0
+23,pets,31.0,4497.0
+0,produce,2782.0,409087.0
+1,produce,1697.0,409087.0
+2,produce,985.0,409087.0
+3,produce,682.0,409087.0
+4,produce,622.0,409087.0
+5,produce,1057.0,409087.0
+6,produce,3413.0,409087.0
+7,produce,11262.0,409087.0
+8,produce,20436.0,409087.0
+9,produce,27891.0,409087.0
+10,produce,32430.0,409087.0
+11,produce,33335.0,409087.0
+12,produce,33503.0,409087.0
+13,produce,34361.0,409087.0
+14,produce,35391.0,409087.0
+15,produce,34824.0,409087.0
+16,produce,32200.0,409087.0
+17,produce,27582.0,409087.0
+18,produce,21247.0,409087.0
+19,produce,16522.0,409087.0
+20,produce,11879.0,409087.0
+21,produce,10882.0,409087.0
+22,produce,8698.0,409087.0
+23,produce,5406.0,409087.0
+0,snacks,759.0,118862.0
+1,snacks,455.0,118862.0
+2,snacks,244.0,118862.0
+3,snacks,203.0,118862.0
+4,snacks,194.0,118862.0
+5,snacks,289.0,118862.0
+6,snacks,921.0,118862.0
+7,snacks,2922.0,118862.0
+8,snacks,5714.0,118862.0
+9,snacks,8270.0,118862.0
+10,snacks,9912.0,118862.0
+11,snacks,10242.0,118862.0
+12,snacks,9600.0,118862.0
+13,snacks,9641.0,118862.0
+14,snacks,10482.0,118862.0
+15,snacks,9909.0,118862.0
+16,snacks,9546.0,118862.0
+17,snacks,8423.0,118862.0
+18,snacks,6460.0,118862.0
+19,snacks,4959.0,118862.0
+20,snacks,3397.0,118862.0
+21,snacks,2782.0,118862.0
+22,snacks,2216.0,118862.0
+23,snacks,1322.0,118862.0
